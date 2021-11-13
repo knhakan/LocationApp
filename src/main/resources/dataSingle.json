@@ -1,0 +1,133 @@
+{
+    "identifier": "DE-292",
+    "id": 620412,
+    "dateCreated": "2017-11-24T12:06:25.000+01:00",
+    "lastUpdated": "2021-11-08T13:11:09.000+01:00",
+    "name": "OBI Markt Kempen",
+    "street": "Kleinbahnstraße",
+    "streetNo": "32",
+    "streetAndNumber": "Kleinbahnstraße 32",
+    "addressExtra": null,
+    "zip": "47906",
+    "city": "Kempen",
+    "cellphone": null,
+    "fax": null,
+    "website": "https://www.obi.de/baumarkt/kempen/?wt_mc=GP.de292_Kempen...",
+    "email": null,
+    "descriptionShort": null,
+    "descriptionLong": null,
+    "openingHoursNotes": null,
+    "lastSyncStarted": null,
+    "country": "DE",
+    "lat": 51.3740233,
+    "lng": 6.4182039,
+    "imprint": null,
+    "addressDisplay": true,
+    "autoSync": false,
+    "skipFacebookPicturesUpdate": false,
+    "phone": "+49 2152 898710",
+    "status": "ACTIVE",
+    "cleansingStatus": "NOT_CLEANSED",
+    "cleansingInvalidDataReason": null,
+    "photos": [
+        {
+            "id": 2657710,
+            "dateCreated": "2017-11-24T12:06:25.000+01:00",
+            "repoKey": "0x8wg49WI4.jpg",
+            "locationId": 620412,
+            "description": null,
+            "identifier": null,
+            "main": true,
+            "logo": false,
+            "type": "MAIN",
+            "url": "/uploads/userpics/620412/0x8wg49WI4.jpg",
+            "publicUrl": "https://s3.eu-central-1.amazonaws.com/uberall-userpics-prod/620412/medium_0x8wg49WI4.jpg",
+            "cropHeight": null,
+            "cropWidth": null,
+            "cropOffsetX": null,
+            "cropOffsetY": null
+        },
+        {
+            "id": 2657711,
+            "dateCreated": "2017-11-24T12:06:25.000+01:00",
+            "repoKey": "nFCTmq9DBi.jpg",
+            "locationId": 620412,
+            "description": null,
+            "identifier": null,
+            "main": false,
+            "logo": true,
+            "type": "LOGO",
+            "url": "/uploads/userpics/620412/nFCTmq9DBi.jpg",
+            "publicUrl": "https://s3.eu-central-1.amazonaws.com/uberall-userpics-prod/620412/medium_nFCTmq9DBi.jpg",
+            "cropHeight": null,
+            "cropWidth": null,
+            "cropOffsetX": null,
+            "cropOffsetY": null
+        }
+    ],
+    "keywords": [],
+    "labels": [],
+    "categories": [
+        536
+    ],
+    "locationSyncable": true,
+    "businessId": 280413,
+    "socialPostId": null,
+    "hasFacebook": false,
+    "endDate": "2017-12-24T12:06:24.000+01:00",
+    "averageRating": 0.0,
+    "openingHours": [
+        {
+            "dayOfWeek": 1,
+            "from1": "08:00",
+            "to1": "20:00"
+        },
+        {
+            "dayOfWeek": 2,
+            "from1": "08:00",
+            "to1": "20:00"
+        },
+        {
+            "dayOfWeek": 3,
+            "from1": "08:00",
+            "to1": "20:00"
+        },
+        {
+            "dayOfWeek": 4,
+            "from1": "08:00",
+            "to1": "20:00"
+        },
+        {
+            "dayOfWeek": 5,
+            "from1": "08:00",
+            "to1": "20:00"
+        },
+        {
+            "dayOfWeek": 6,
+            "from1": "08:00",
+            "to1": "18:00"
+        }
+    ],
+    "specialOpeningHours": [],
+    "attributes": [],
+    "activeDirectoriesCount": 42,
+    "activeListingsCount": 42,
+    "publishedListingsCount": 24,
+    "profileCompleteness": 63,
+    "missingMandatoryFields": [
+        "EMAIL",
+        "KEYWORDS",
+        "SERVICES",
+        "DESCRIPTION_SHORT"
+    ],
+    "directoriesMissingConnect": [
+        "FACEBOOK",
+        "GOOGLE"
+    ],
+    "listingsInSync": 13,
+    "listingsBeingUpdated": 16,
+    "visibilityIndex": 286,
+    "dataPoints": 2,
+    "province": "Nordrhein-Westfalen",
+    "suggestionsForFieldsAvailable": true
+}
